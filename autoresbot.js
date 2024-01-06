@@ -7,7 +7,7 @@
 
 
 /* ===================「 ᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ 」─=================== */
-const apikey_autoresbot = 'YOUR APIKEY';// ambil di autoresbot.com
+const apikey_autoresbot = '5a826470f7a9158819ad96253025b53b';// ambil di autoresbot.com
 
 
 /* ===================「 ᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ 」─=================== */
